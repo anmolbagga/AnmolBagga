@@ -2,7 +2,7 @@
 
 Some information about me:
 
-- 🔭 I’m currently looking for new and exciting oppurtunities!
+- 🔭 I’m currently working at Triller!
 - 🤔 What I know - Selenium with java, TestNG, jUnit, Cucumber, Restassured, Postman , Git Maven, Smart Script, Fitnesse, Sikuli, AutoIT, Somewhat jenkins
 - 🌱 I’m currently learning ... Js/WebdriverIo, mocha, chai and cypress io!
 - 👯 I’m looking to collaborate on ... automation and software testing!
