@@ -7,5 +7,5 @@ Some information about me:
 - 🌱 I’m currently learning ... testproject.io
 - 👯 I’m looking to collaborate on ... automation and software testing!
 - 💬 Ask me about ... anything. If I know I will surely tell, if I dont I will simply try my best to find out!
-- 📫 How to reach me: ... You can message me on twitter at https://twitter.com/Anmol_Bagga10 or on Linkedin at https://www.linkedin.com/in/anmolbagga/
+- 📫 How to reach me: ... You can message me on twitter at https://twitter.com/Anmol_Bagga10 or on Linkedin at https://www.linkedin.com/in/anmolbagga/. Alternatively you can mail me at anmol_bagga10@yahoo.co.in.
 - ⚡ Fun fact: ... I am foodie and love travelling
