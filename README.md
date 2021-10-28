@@ -2,8 +2,8 @@
 
 Some information about me:
 
-- 🔭 I’m currently working at Triller! Previously worked in QA InfoTech, Expedia, Coach New York, Walmart, Lloyds Banking Group.
-- 🤔 What I know - Functional testing
+- 🔭 I’m currently working at Lloyds Banking Group on a contract role! Previously worked at QA InfoTech, Expedia, Coach New York, Walmart, Lloyds Banking Group, Triller!!
+- 🤔 What I know - Functional testing/exploratory testing
 - 🌱 I’m currently learning ... testproject.io
 - 👯 I’m looking to collaborate on ... automation and software testing!
 - 💬 Ask me about ... anything. If I know I will surely tell, if I dont I will simply try my best to find out!
